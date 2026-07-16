@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main (void){
+    int c1, c2, c3;
+
+    // Читаю три символа
+    c1 = getchar();
+    c2 = getchar();
+    c3 = getchar();
+
+    // Ввожу в обратном порядке
+    putchar(c3);
+    putchar(c2);
+    putchar(c1);
+}
