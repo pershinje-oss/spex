@@ -120,9 +120,11 @@ int main(void){
 // int item = show_menu();
 // printf("%d", item);
 
-int a;
-scanf("%d", &a);
-int b = a / 3 ? printf("yes") : printf("no");
+// int a;
+// scanf("%d", &a);
+// int b = a / 3 ? printf("yes") : printf("no");
+
+
 
 
 
