@@ -73,15 +73,20 @@ int main(void){
     // nomber = nomber << 3;
     // printf("%u", nomber);
 
-    unsigned int nomber1 , nomber2;
-    scanf("%u %u", &nomber1,&nomber2);
+    // unsigned int nomber1 , nomber2;
+    // scanf("%u %u", &nomber1,&nomber2);
 
-    printf("%u", (nomber1 >> 1) * (nomber2 >> 1));
+    // printf("%u", (nomber1 >> 1) * (nomber2 >> 1));
     
+    // unsigned int flags , mask;
+    // scanf("%u %u", &flags,&mask);
+    // (flags & mask) == mask ? printf("yes") : printf("no");
+    
+    // unsigned int flags , mask;
+    // scanf("%u %u", &flags,&mask);
+    // (flags & mask)? printf("yes"): printf("no");
 
-
-
-
+    
 
     return 0;
 }
